@@ -1,8 +1,8 @@
 # How to sort references in the bibliography by the date added on Zotero
-### بسم الله الرحمن الرحيم
+## بسم الله الرحمن الرحيم
 
 1. Select the references 
-2. Then click right on them
+2. Then right-click on them
 3. From the list choose "Create bibliography from items..."
 
 ![PHOTO 4](https://github.com/faris-hamdi/desktop-tutorial/assets/80545842/be64b579-e4b8-44d2-a55d-337912106575)
@@ -39,5 +39,5 @@
 
 ![PHOTO 13](https://github.com/faris-hamdi/desktop-tutorial/assets/80545842/a5a336d6-e2b4-4788-9997-67f6933a5c98)
 
-### THAT IS IT, Enjoy Writing !!!
-### نفع الله بنا و بكم
+## THAT IS IT, Enjoy Writing !!!
+## نفع الله بنا و بكم
