@@ -1,7 +1,7 @@
-# Sort references in the bibliography by the date added on Zotero
-## بسم الله الرحمن الرحيم
+# Export bibliography into Word, sorted by "Date Added" in Zotero
+<p align="center"><img src='https://i.imgur.com/v2TUAyw.png' width="300"/>
 
-1. Select the references 
+1. Select all items
 2. Then right-click on them
 3. From the list choose "Create bibliography from items..."
 
@@ -19,7 +19,7 @@
 
 ![PHOTO 7](https://github.com/faris-hamdi/desktop-tutorial/assets/80545842/f275a05d-fd0a-4e0e-82f5-0294aca6cf9a)
 
-8. And replace it with this <key variable="abridged"/>
+8. And replace it with this ``<key variable="abridged"/>``
 
 ![PHOTO 8](https://github.com/faris-hamdi/desktop-tutorial/assets/80545842/9447d589-888b-496f-9aaf-d3d27229796c)
 
@@ -29,7 +29,7 @@
 
 ![PHOTO 10](https://github.com/faris-hamdi/desktop-tutorial/assets/80545842/d2c36db7-e11c-4df1-9653-eb937834d10c)
 
-10. back to the previous window "zotero preferences" and click on "+" then choose the file "apa.csl"
+10. back to the previous window "Zotero preferences" and click on "+" then choose the file "apa.csl"
 
 ![PHOTO 11](https://github.com/faris-hamdi/desktop-tutorial/assets/80545842/3e18facd-24eb-4c13-80aa-ff3235c20517)
 
@@ -40,5 +40,9 @@
 ![PHOTO 13](https://github.com/faris-hamdi/desktop-tutorial/assets/80545842/a5a336d6-e2b4-4788-9997-67f6933a5c98)
 
 ## THAT IS IT, Enjoy Writing !!!
-### if there any problem, feel free to ask
-## نفع الله بنا و بكم
+### If there is any problem, feel free to ask.
+
+<p align="center"><img src='https://i.imgur.com/imGXiHC.png' width="300"/>
+
+---
+
