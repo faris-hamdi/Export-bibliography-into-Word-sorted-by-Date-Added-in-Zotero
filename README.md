@@ -4,40 +4,38 @@
 2. Then click right on them
 3. From the list choose "Create bibliography from items..."
 
-![PHOTO 4](https://drive.google.com/file/d/13EywXOVtEjpdtoho_9BtDvoraYGffson/view?usp=drive_link)
+![PHOTO 4](https://github.com/faris-hamdi/desktop-tutorial/assets/80545842/be64b579-e4b8-44d2-a55d-337912106575)
 
 4. Select "manage styles"
 
-![PHOTO 5](https://drive.google.com/file/d/1K5LHLqm1DsGEVn-gV1OeaJBwoo2Zb14s/view?usp=drive_link)
+![PHOTO 5](https://github.com/faris-hamdi/desktop-tutorial/assets/80545842/5eeb91f0-5911-4c79-83cb-7767356fcc24)
 
 6. From "cite", select "style editor"
 
-![PHOTO 6](https://drive.google.com/file/d/14A4w64heyyFq1TJM_vC0LksFKmYlUtvE/view?usp=drive_link)
+![PHOTO 6](https://github.com/faris-hamdi/desktop-tutorial/assets/80545842/449cda42-ad8e-4f81-b5da-89144c8e1377)
 
 7. Delete the selected code
 
-![PHOTO 7](https://drive.google.com/file/d/1XdyHI1kIH6uFl9_EXQTjJeLKlABC1zLq/view?usp=drive_link)
+![PHOTO 7](https://github.com/faris-hamdi/desktop-tutorial/assets/80545842/f275a05d-fd0a-4e0e-82f5-0294aca6cf9a)
 
 8. And replace it with this <key variable="abridged"/>
 
-![PHOTO 8](https://drive.google.com/file/d/1OJY-U-D8P6TxII7Dh5G17E7tU-6bt0X3/view?usp=drive_link)
+![PHOTO 8](https://github.com/faris-hamdi/desktop-tutorial/assets/80545842/9447d589-888b-496f-9aaf-d3d27229796c)
 
 9. Then click on "save as" and save it with the name "apa.csl"
 
-![PHOTO 9](https://drive.google.com/file/d/1Nz6qdeTJxVFWJ2g8pIBGNwUYPOd7YQCd/view?usp=drive_link)
+![PHOTO 9](https://github.com/faris-hamdi/desktop-tutorial/assets/80545842/c16351dd-3d99-496b-be7e-e4fada7766d1)
 
-![PHOTO 10](https://drive.google.com/file/d/1WM3E9MULDfpl-_ZWJA6HZYv5Gx3ZdwVz/view?usp=drive_link)
+![PHOTO 10](https://github.com/faris-hamdi/desktop-tutorial/assets/80545842/d2c36db7-e11c-4df1-9653-eb937834d10c)
 
 10. back to the previous window "zotero preferences" and click on "+" then choose the file "apa.csl"
 
-![PHOTO 11](https://drive.google.com/file/d/1CikfLSqfT8Pej81YoFG5QOr7nyLSeloi/view?usp=drive_link)
+![PHOTO 11](https://github.com/faris-hamdi/desktop-tutorial/assets/80545842/3e18facd-24eb-4c13-80aa-ff3235c20517)
 
-![PHOTO 12](https://drive.google.com/file/d/1Z7_ulKuk0EcEQ90f6NWFDLX6yx0hvSE5/view?usp=drive_link)
+![PHOTO 12](https://github.com/faris-hamdi/desktop-tutorial/assets/80545842/799d1e3f-96a1-475f-925a-44d9d8c15d9a)
 
 11. then click on ok for the next window
 
-![PHOTO 13](https://drive.google.com/file/d/1465aWv4RJ4X_gBadBiJEX60_AP0cj6zN/view?usp=drive_link)
-
-
+![PHOTO 13](https://github.com/faris-hamdi/desktop-tutorial/assets/80545842/a5a336d6-e2b4-4788-9997-67f6933a5c98)
 
 
