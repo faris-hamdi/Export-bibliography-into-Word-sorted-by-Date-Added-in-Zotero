@@ -19,7 +19,7 @@
 
 ![PHOTO 7](https://github.com/faris-hamdi/desktop-tutorial/assets/80545842/f275a05d-fd0a-4e0e-82f5-0294aca6cf9a)
 
-8. And replace it with this <key variable="abridged"/>
+8. And replace it with this ' <key variable="abridged"/> '
 
 ![PHOTO 8](https://github.com/faris-hamdi/desktop-tutorial/assets/80545842/9447d589-888b-496f-9aaf-d3d27229796c)
 
