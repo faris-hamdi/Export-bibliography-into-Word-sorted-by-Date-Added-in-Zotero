@@ -1,4 +1,4 @@
-# How to sort references in the bibliography by the date added on Zotero
+# Sort references in the bibliography by the date added on Zotero
 ## بسم الله الرحمن الرحيم
 
 1. Select the references 
